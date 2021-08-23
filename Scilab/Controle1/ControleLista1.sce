@@ -194,7 +194,7 @@ Operator / : Error -1 not yet managed.
    4.   4.
 */
 //b) Obtenha a matriz A3 acrescentando uma linha na matriz A contendo os quatro primeiros elementos do vetor x.
-
+// lalalallalalalal testando
 
 
 
